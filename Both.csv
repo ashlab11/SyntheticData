@@ -1,0 +1,22 @@
+Feature Name,Type of missing,Type of imputation method,Feature Name,Type of missing,Type of imputation method,Mean Value,STD
+bedrooms,mar,original,bedrooms,mar,original,0.0,0.0
+bedrooms,mar,synthesizer,bedrooms,mar,synthesizer,0.0740312842299828,0.06678336585224566
+bedrooms,mar,synthpop,bedrooms,mar,synthpop,0.1441670043075017,0.08728735279420358
+bedrooms,mnar,original,bedrooms,mnar,original,0.0,0.0
+bedrooms,mnar,synthesizer,bedrooms,mnar,synthesizer,0.06264371890177696,0.04081969649007276
+bedrooms,mnar,synthpop,bedrooms,mnar,synthpop,0.06321819203325854,0.05217220523339001
+bedrooms,original,original,bedrooms,original,original,0.0,0.0
+parking,mar,original,parking,mar,original,0.0,0.0
+parking,mar,synthesizer,parking,mar,synthesizer,0.05993041551212643,0.05394721672331268
+parking,mar,synthpop,parking,mar,synthpop,0.08945002579211477,0.06750928249130769
+parking,mnar,original,parking,mnar,original,0.0,0.0
+parking,mnar,synthesizer,parking,mnar,synthesizer,0.03663359638192897,0.01920567948936727
+parking,mnar,synthpop,parking,mnar,synthpop,0.03451281399096114,0.024729269245078286
+parking,original,original,parking,original,original,0.0,0.0
+stories,mar,original,stories,mar,original,0.0,0.0
+stories,mar,synthesizer,stories,mar,synthesizer,0.08567906117059251,0.05558519781546715
+stories,mar,synthpop,stories,mar,synthpop,0.14415718741466285,0.11020033613215094
+stories,mnar,original,stories,mnar,original,0.0,0.0
+stories,mnar,synthesizer,stories,mnar,synthesizer,0.1604852299897918,0.11514590779630841
+stories,mnar,synthpop,stories,mnar,synthpop,0.21575556784599215,0.18922767985547337
+stories,original,original,stories,original,original,0.0,0.0
